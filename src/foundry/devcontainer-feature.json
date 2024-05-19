@@ -1,7 +1,7 @@
 {
   "name": "Foundry",
   "id": "foundry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A feature to install foundry (anvil, forge, cast, chisel)",
   "installsAfter": ["ghcr.io/devcontainers/features/common-utils"]
 }
