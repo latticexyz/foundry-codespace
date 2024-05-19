@@ -17,4 +17,4 @@ A feature to install foundry (anvil, forge, cast, chisel)
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/latticexyz/foundry-codespace/blob/main/src/foundry/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
